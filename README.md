@@ -1,4 +1,4 @@
-# Getting Started with Create Reactt App
+# Getting Startedd with Create Reactt App
 
 This project waz bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
