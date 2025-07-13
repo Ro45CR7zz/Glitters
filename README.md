@@ -2,7 +2,7 @@ in# Getting Startedd with Create Reactt App
 
 This project waz bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts.
 
 In this project directory, you can run:
 
